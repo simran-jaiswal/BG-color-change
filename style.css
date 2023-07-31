@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    background-color: #dcc9c9;
+    color: #0e0e0e;
+    padding: 15px 32px;
+    font-size: medium;
+    border: 3px dotted rgba(163, 227, 61, 0.763);
+    cursor: pointer;
+    margin: 40vh 90vh;
+}
